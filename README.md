@@ -3,10 +3,3 @@
 Ray Villalobos is a full-stack design/development teacher and Senior Staff Author at [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos). His [courses]([url](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104)) are focused on topics like Artificial Intelligence, JavaScript, React, Svelte, VueJS, Sass plus frameworks like Bootstrap, Tailwind CSS and tools that can make you a faster, more efficient developer. He approaches teaching with a clear and practical style which can help you improve your skills through real-world exercises and projects. 
 
 As the Director of Multimedia for Entravision Communications, Ray managed a network of radio and TV station websites on the East Coast. He designed large newspaper sites and created interactive projects/games for the Tribune network of newspapers.
-
-## My Content
-- [LinkedIn Profile](https://www.linkedin.com/in/planetoftheweb)
-- [LinkedIn Courses](https://www.linkedin.com/learning/instructors/ray-villalobos)
-- [X](https://twitter.com/planetoftheweb)
-- [Blog](https://raybo.org)
-- [YouTube](https://www.youtube.com/planetoftheweb)
